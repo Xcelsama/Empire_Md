@@ -1,1 +1,281 @@
-const a0_0x505f5d=a0_0x1222;function a0_0x5a2f(){const _0x360438=['Africa/Lagos','map','error','4700980hWLeIv','list','\x20]\x20\x0a┃\x20✗\x20Time:\x20','MODE','findOne','getnote','\x20\x20\x0a➮\x20ɴᴜᴍ\x20-\x20','length','9AxLknr','pattern','9024136WVqkJi','toFixed','4022578grKRGb','\x0a┃\x20✗\x20Uptime:\x20','\x20\x20\x0a┃\x20✭\x20ᴅᴀᴛᴇ:\x20','┌──『\x20','split','1FBfSBc','\x0a┃\x20✗\x20Owner:\x20','join','\x0a┃\x20✗\x20Plugins:\x20','botname','\x20|\x20\x20','*\x0a\x20\x20','error:\x20','toString','\x20\x20\x0a┃\x20✭\x20ᴄᴏᴍᴍᴀɴᴅꜱ:\x20','../../database/notes','📌\x20*Title:*\x20','log','\x20』──❖\x0a','toUpperCase','en-US','findOneAndUpdate','*❌\x20No\x20such\x20command\x20found.*','general','7972UUenQv','\x0a*🦄\x20ᴜᴘᴛɪᴍᴇ\x20:*\x20','12jUuHGw','ᴇᴍᴘɪʀᴇ_ᴍᴅ','18178534NAETVx','\x20\x20\x0a┃\x20✭\x20ᴜᴘᴛɪᴍᴇ:\x20','✅\x20*Note\x20\x22','totalmem','1590510GkUqDs','toLocaleDateString','sendMessage','\x20\x20\x0a┃\x20✭\x20ᴏᴡɴᴇʀ:\x20','Delete\x20a\x20specific\x20note','Please\x20use\x20this\x20format:\x0a\x0a.setnote\x20Title;\x20Note\x20Content','long','GB\x20/\x20','menus','OWNER_NUMBER','setnote','\x0a┃\x20✗\x20Version:\x20','toLocaleTimeString','❌\x20Invalid\x20format!\x20Use:\x0a.setnote\x20Title;\x20Note\x20Content','*🍁\x20Command:*\x20','└──────────────◉\x0a','\x0a┃\x20✗\x20Prefix:\x20[\x20','text','../funcs','findOneAndDelete','\x20\x20\x0a┃\x20✭\x20ᴛɪᴍᴇ:\x20','\x0a✨\x20*File\x20Name:*\x20','2656162zBQPQB','../../config','\x0a┗━━━━━━━━━━━━━━━```\x0a','\x0a┃\x20✗\x20Day:\x20','\x20\x20\x0a*🍁\x20ᴛᴏᴅᴀʏ\x20ᴅᴀᴛᴇ\x20:*\x20','find','\x0a┃\x20✗\x20Mode:\x20','trim','../command','push','1.0.0','\x0a┃\x20✗\x20Mem:\x20','desc','dontAddCommandList','category','1623PpjXqa','✅\x20*Note\x20Saved!*\x0a\x0a📌\x20*Title:*\x20','\x22\x20deleted\x20successfully!*','6FoOVga','forEach','uptime','reduce','```\x0a┏━━⟪\x20','Get\x20the\x20exact\x20file\x20name\x20where\x20a\x20command\x20is\x20located\x20in\x20the\x20repo.','❌\x20No\x20note\x20found\x20with\x20this\x20title!','delnote','\x20\x20\x0a\x0a➮\x20𝙵𝚘𝚞𝚗𝚍𝚎𝚛\x20-\x20ᴇᴍᴘɪʀᴇ\x20ᴛᴇᴄʜ\x0a➮\x20ᴜsᴇʀ\x20-\x20','Retrieve\x20a\x20specific\x20note','freemem','PREFIX','https://files.catbox.moe/lps6ow.jpg'];a0_0x5a2f=function(){return _0x360438;};return a0_0x5a2f();}(function(_0x3f54b8,_0x824cd7){const _0x3bc2cd=a0_0x1222,_0x4a42dc=_0x3f54b8();while(!![]){try{const _0x2d768d=-parseInt(_0x3bc2cd(0xc7))/0x1*(parseInt(_0x3bc2cd(0xf8))/0x2)+parseInt(_0x3bc2cd(0x107))/0x3*(-parseInt(_0x3bc2cd(0xda))/0x4)+parseInt(_0x3bc2cd(0xe2))/0x5+-parseInt(_0x3bc2cd(0x10a))/0x6*(-parseInt(_0x3bc2cd(0xc2))/0x7)+-parseInt(_0x3bc2cd(0xc0))/0x8*(-parseInt(_0x3bc2cd(0xbe))/0x9)+-parseInt(_0x3bc2cd(0x11a))/0xa+-parseInt(_0x3bc2cd(0xde))/0xb*(-parseInt(_0x3bc2cd(0xdc))/0xc);if(_0x2d768d===_0x824cd7)break;else _0x4a42dc['push'](_0x4a42dc['shift']());}catch(_0x35ee39){_0x4a42dc['push'](_0x4a42dc['shift']());}}}(a0_0x5a2f,0xc292f));const config=require(a0_0x505f5d(0xf9)),{cmd,commands}=require(a0_0x505f5d(0x100)),os=require('os'),{getBuffer,getGroupAdmins,getRandom,h2k,isUrl,Json,runtime,sleep,fetchJson,saveConfig,Catbox,monospace}=require(a0_0x505f5d(0xf4)),mode=config[a0_0x505f5d(0x11d)],prefix=config[a0_0x505f5d(0x115)],botname=global[a0_0x505f5d(0xcb)]||a0_0x505f5d(0xdd),version=a0_0x505f5d(0x102),{notes}=require(a0_0x505f5d(0xd1));function a0_0x1222(_0x2ec213,_0x3be703){const _0x5a2f06=a0_0x5a2f();return a0_0x1222=function(_0x122266,_0x67c35c){_0x122266=_0x122266-0xbc;let _0x1b652c=_0x5a2f06[_0x122266];return _0x1b652c;},a0_0x1222(_0x2ec213,_0x3be703);}cmd({'pattern':'menu','desc':'Get\x20command\x20list','category':a0_0x505f5d(0xd9),'filename':__filename},async(_0x5a14c5,_0x427e84,_0x2be1df,{from:_0x1d16aa,quoted:_0x1bbb9c,sender:_0x3d7eed,pushname:_0xcff90a,reply:_0x4d932c})=>{const _0x564197=a0_0x505f5d;try{const _0xa96142=new Date(),_0xb5f801=_0x564197(0x117),_0xf71b18={'timeZone':_0xb5f801,'hour12':!![]},_0x1eb08f=_0xa96142[_0x564197(0xee)]('en-US',_0xf71b18),_0x4b3f7d=_0xa96142[_0x564197(0xe3)]('en-US',_0xf71b18),_0x4939d9=_0xa96142[_0x564197(0xe3)](_0x564197(0xd6),{'timeZone':_0xb5f801,'weekday':_0x564197(0xe8)}),_0x513450=runtime(process[_0x564197(0x10c)]()),_0x21c82e=(os['totalmem']()/0x400/0x400/0x400)[_0x564197(0xc1)](0x2),_0xe25aff=((os['totalmem']()-os[_0x564197(0x114)]())/0x400/0x400/0x400)[_0x564197(0xc1)](0x2),_0x2054ae=_0xe25aff+_0x564197(0xe9)+_0x21c82e+'GB',_0x55b0de=commands[_0x564197(0xbd)],_0xb2a956=commands[_0x564197(0x10d)]((_0x4feb96,_0x361684)=>{const _0x36f4d0=_0x564197;if(_0x361684[_0x36f4d0(0xbf)]&&!_0x361684[_0x36f4d0(0x105)]){if(!_0x4feb96[_0x361684[_0x36f4d0(0x106)]])_0x4feb96[_0x361684[_0x36f4d0(0x106)]]=[];_0x4feb96[_0x361684[_0x36f4d0(0x106)]][_0x36f4d0(0x101)](_0x361684[_0x36f4d0(0xbf)]);}return _0x4feb96;},{}),_0x1f8ae1=_0x564197(0x10e)+botname+'\x20⟫━━⦿\x0a┃\x20✗\x20Date:\x20'+_0x4b3f7d+_0x564197(0xfb)+_0x4939d9+_0x564197(0x103)+_0x2054ae+_0x564197(0xfe)+mode+_0x564197(0xc8)+_0xcff90a+_0x564197(0xca)+_0x55b0de[_0x564197(0xcf)]()+_0x564197(0xf2)+prefix+_0x564197(0x11c)+_0x1eb08f+_0x564197(0xc3)+_0x513450+_0x564197(0xed)+version+_0x564197(0xfa),_0xf88312=(_0x59e1f9,_0x54e501)=>{const _0x2b2567=_0x564197,_0x58afce=_0x2b2567(0xc5)+monospace(_0x59e1f9[_0x2b2567(0xd5)]())+_0x2b2567(0xd4),_0x4b4854=_0x54e501[_0x2b2567(0x118)](_0x1eb915=>_0x2b2567(0xcc)+monospace(prefix+_0x1eb915))['join']('\x0a'),_0x3167bc=_0x2b2567(0xf1);return''+_0x58afce+_0x4b4854+'\x0a'+_0x3167bc;};let _0x36e005=_0x1f8ae1;for(const [_0x490908,_0x4e5905]of Object['entries'](_0xb2a956)){_0x36e005+=_0xf88312(_0x490908,_0x4e5905)+'\x0a';}await _0x5a14c5[_0x564197(0xe4)](_0x1d16aa,{'image':{'url':_0x564197(0x116)},'caption':_0x36e005['trim']()},{'quoted':_0x427e84});}catch(_0x65ea13){console[_0x564197(0xd3)](_0x65ea13),_0x4d932c(''+_0x65ea13);}}),cmd({'pattern':'file','desc':a0_0x505f5d(0x10f),'category':a0_0x505f5d(0xd9),'react':'✨','filename':__filename},async(_0x1a98d0,_0x4506ca,_0xc1d932,{q:_0x26a6ca,reply:_0x5f3b78})=>{const _0x139dd3=a0_0x505f5d;if(!_0x26a6ca)return _0x5f3b78('Provide\x20a\x20command\x20name\x20to\x20check\x20its\x20file\x20location!');const _0x1591cc=commands[_0x139dd3(0xfd)](_0x500ab0=>_0x500ab0[_0x139dd3(0xbf)]===_0x26a6ca['toLowerCase']());if(!_0x1591cc)return _0x5f3b78(_0x139dd3(0xd8));let _0x1b20e0=_0x139dd3(0xf0)+_0x1591cc[_0x139dd3(0xbf)];_0x1b20e0+='\x0a*🧩\x20Type:*\x20'+(_0x1591cc[_0x139dd3(0x106)]||'misc'),_0x1b20e0+=_0x139dd3(0xf7)+(_0x1591cc['filename']||'Not\x20Provided'),_0x5f3b78(_0x1b20e0);}),cmd({'pattern':a0_0x505f5d(0xec),'desc':'Save\x20a\x20note\x20with\x20a\x20title','category':a0_0x505f5d(0xd9),'filename':__filename},async(_0x333022,_0x2e1f98,_0x28a599,{q:_0x25661d,quoted:_0x5d4081,sender:_0x3903fc,reply:_0x584309})=>{const _0x1e8836=a0_0x505f5d;try{if(!_0x25661d)return _0x584309(_0x1e8836(0xe7));const _0x2f48d0=_0x25661d[_0x1e8836(0xc6)](';');if(_0x2f48d0[_0x1e8836(0xbd)]<0x2)return _0x584309(_0x1e8836(0xef));const _0x40c32b=_0x2f48d0[0x0][_0x1e8836(0xff)](),_0x23dd47=_0x5d4081?_0x5d4081[_0x1e8836(0xf3)]:_0x2f48d0['slice'](0x1)[_0x1e8836(0xc9)](';')[_0x1e8836(0xff)]();await notes[_0x1e8836(0xd7)]({'id':_0x3903fc,'title':_0x40c32b},{'note':_0x23dd47},{'upsert':!![],'new':!![]}),_0x584309(_0x1e8836(0x108)+_0x40c32b);}catch(_0x35eddc){console['log'](_0x35eddc),_0x584309(_0x1e8836(0xce)+_0x35eddc);}}),cmd({'pattern':a0_0x505f5d(0x11b),'desc':'Show\x20all\x20commands\x20and\x20descriptions','react':'📜','category':a0_0x505f5d(0xd9),'filename':__filename},async(_0x210ece,_0x78b51a,_0x4d2cd3,{from:_0x4d0fd9,quoted:_0x4ce3f1,isCmd:_0xad6063,command:_0x38f4e6,args:_0xd1463c,q:_0x14417c,isGroup:_0x314e8b,sender:_0x5a6ba2,pushname:_0x367395,reply:_0x480459})=>{const _0x44b667=a0_0x505f5d;try{const _0x2d6b2c=new Date(),_0x3fa187=_0x44b667(0x117),_0x59a795={'timeZone':_0x3fa187,'hour12':!![]},_0x4dd282=_0x2d6b2c[_0x44b667(0xee)](_0x44b667(0xd6),_0x59a795),_0x2d8872=_0x2d6b2c[_0x44b667(0xe3)](_0x44b667(0xd6),_0x59a795),_0x315d94=_0x2d6b2c['toLocaleDateString']('en-US',{'timeZone':_0x3fa187,'weekday':_0x44b667(0xe8)}),_0x175a34=runtime(process[_0x44b667(0x10c)]()),_0x343107=(os[_0x44b667(0xe1)]()/0x400/0x400/0x400)['toFixed'](0x2),_0x5083f4=((os[_0x44b667(0xe1)]()-os[_0x44b667(0x114)]())/0x400/0x400/0x400)[_0x44b667(0xc1)](0x2),_0x2ca422=_0x5083f4+_0x44b667(0xe9)+_0x343107+'GB',_0x3c671a=commands[_0x44b667(0xbd)];let _0x1d11f0='╭━━〘\x20ᴇᴍᴘɪʀᴇ-ᴍᴅ\x20〙────⊷\x20\x20\x0a┃\x20✭\x20ᴘʀᴇꜰɪx:\x20'+prefix+_0x44b667(0xe5)+_0x367395+_0x44b667(0xd0)+_0x3c671a[_0x44b667(0xcf)]()+_0x44b667(0xdf)+_0x175a34+_0x44b667(0xc4)+_0x2d8872+_0x44b667(0xf6)+_0x4dd282+'\x20\x20\x0a╰━━━━━━━━━━━━━━⊷\x0a';commands[_0x44b667(0x10b)]((_0x559efa,_0x3fff8d)=>{const _0x52f2fc=_0x44b667;_0x559efa[_0x52f2fc(0xbf)]&&_0x559efa['desc']&&(_0x1d11f0+='*'+(_0x3fff8d+0x1)+'\x20'+monospace(_0x559efa[_0x52f2fc(0xbf)])+_0x52f2fc(0xcd)+_0x559efa[_0x52f2fc(0x104)]+'\x0a');}),await _0x210ece[_0x44b667(0xe4)](_0x4d0fd9,{'text':_0x1d11f0[_0x44b667(0xff)]()},{'quoted':_0x78b51a});}catch(_0x3d429c){console[_0x44b667(0x119)](_0x3d429c),_0x480459(''+_0x3d429c);}}),cmd({'pattern':a0_0x505f5d(0xea),'desc':'Display\x20bot\x27s\x20uptime,\x20date,\x20time,\x20and\x20other\x20stats','react':'📜','category':a0_0x505f5d(0xd9),'filename':__filename},async(_0x2007db,_0x147f24,_0x4c9938,{from:_0xd7af8f,quoted:_0x128d52,sender:_0x50ee85,pushname:_0x5824f0,reply:_0x526528})=>{const _0x3903d5=a0_0x505f5d;try{const _0x455483=new Date(),_0x175d73=_0x3903d5(0x117),_0x374a9f={'timeZone':_0x175d73,'hour12':!![]},_0x266311=_0x455483[_0x3903d5(0xee)](_0x3903d5(0xd6),_0x374a9f),_0x339a05=_0x455483['toLocaleDateString'](_0x3903d5(0xd6),_0x374a9f),_0x30e10f=_0x455483['toLocaleDateString'](_0x3903d5(0xd6),{'timeZone':_0x175d73,'weekday':'long'}),_0x4e9cb6=runtime(process[_0x3903d5(0x10c)]()),_0x5d319e=(os[_0x3903d5(0xe1)]()/0x400/0x400/0x400)['toFixed'](0x2),_0x5bbdb5=((os[_0x3903d5(0xe1)]()-os['freemem']())/0x400/0x400/0x400)[_0x3903d5(0xc1)](0x2),_0x4092f2=_0x5bbdb5+_0x3903d5(0xe9)+_0x5d319e+'GB',_0x514ce4=commands[_0x3903d5(0xbd)],_0x52fc38=_0x3903d5(0xdb)+_0x4e9cb6+_0x3903d5(0xfc)+_0x339a05+'\x20\x20\x0a*🎗\x20ɴᴏᴡ\x20ᴛɪᴍᴇ\x20:*\x20'+_0x266311+'\x20\x20\x0a*🎉\x20ᴛᴏᴅᴀʏ\x20ᴅᴀʏ\x20:*\x20'+_0x30e10f+_0x3903d5(0x112)+_0x5824f0+_0x3903d5(0xbc)+config[_0x3903d5(0xeb)]+'\x20\x20\x0a➮\x20ᴍᴇᴍ\x20-\x20'+_0x4092f2+'\x20\x20\x0a\x0a*🧑‍💻\x20:*\x20ᴇᴍᴘɪʀᴇ-ᴍᴅ\x20ɪꜱ\x20ɴᴏᴡ\x20ᴀᴠᴀɪʟᴀʙʟᴇ\x20\x20\x0a\x0a╭──❰\x20*ᴀʟʟ\x20ᴍᴇɴᴜ*\x20❱\x20\x20\x0a│🏮\x20ʟɪꜱᴛ\x20\x20\x0a│🏮\x20ᴄᴀᴛᴇɢᴏʀʏ\x20\x20\x0a│🏮\x20ʜᴇʟᴘ\x20\x20\x0a│🏮\x20ᴀʟɪᴠᴇ\x20\x20\x0a│🏮\x20ᴜᴘᴛɪᴍᴇ\x20\x20\x0a│🏮\x20ᴡᴇᴀᴛʜᴇʀ\x20\x20\x0a│🏮\x20ʟɪɴᴋ\x20\x20\x0a│🏮\x20ᴄᴘᴜ\x20\x20\x0a│🏮\x20ʀᴇᴘᴏꜱɪᴛᴏʀʏ\x20\x20\x0a╰─────────────⦁\x20\x20\x0a';await _0x2007db[_0x3903d5(0xe4)](_0xd7af8f,_0x52fc38,{'quoted':_0x147f24});}catch(_0x18b0cc){console[_0x3903d5(0x119)](_0x18b0cc),_0x526528(''+_0x18b0cc);}}),cmd({'pattern':a0_0x505f5d(0x11f),'desc':a0_0x505f5d(0x113),'category':a0_0x505f5d(0xd9),'filename':__filename},async(_0x32e7d7,_0xbfaf61,_0x4c9352,{q:_0x36a279,sender:_0x1b3df3,reply:_0x1df7d5})=>{const _0x3236d5=a0_0x505f5d;try{if(!_0x36a279)return _0x1df7d5('Please\x20specify\x20the\x20note\x20title!\x0aExample:\x20.getnote\x20Title');const _0x312464=await notes[_0x3236d5(0x11e)]({'id':_0x1b3df3,'title':_0x36a279[_0x3236d5(0xff)]()});if(!_0x312464)return _0x1df7d5(_0x3236d5(0x110));_0x1df7d5(_0x3236d5(0xd2)+_0x36a279[_0x3236d5(0xff)]()+'\x0a📝\x20*Note:*\x20'+_0x312464['note']);}catch(_0x265f99){console[_0x3236d5(0xd3)](_0x265f99),_0x1df7d5(_0x3236d5(0xce)+_0x265f99);}}),cmd({'pattern':a0_0x505f5d(0x111),'desc':a0_0x505f5d(0xe6),'category':a0_0x505f5d(0xd9),'filename':__filename},async(_0x1bcd0e,_0x559b46,_0x12727d,{q:_0x2b1780,sender:_0x476844,reply:_0x3f311f})=>{const _0x5add71=a0_0x505f5d;try{if(!_0x2b1780)return _0x3f311f('Please\x20specify\x20the\x20note\x20title!\x0aExample:\x20.delnote\x20Title');const _0x3857f0=await notes[_0x5add71(0xf5)]({'id':_0x476844,'title':_0x2b1780[_0x5add71(0xff)]()});if(!_0x3857f0)return _0x3f311f('❌\x20No\x20note\x20found\x20with\x20this\x20title!');_0x3f311f(_0x5add71(0xe0)+_0x2b1780[_0x5add71(0xff)]()+_0x5add71(0x109));}catch(_0x3a95e3){console[_0x5add71(0xd3)](_0x3a95e3),_0x3f311f(_0x5add71(0xce)+_0x3a95e3);}});
+const config = require("../../config");
+const {
+  cmd,
+  commands
+} = require("../command");
+const os = require('os');
+const {
+  getBuffer,
+  getGroupAdmins,
+  getRandom,
+  h2k,
+  isUrl,
+  Json,
+  runtime,
+  sleep,
+  fetchJson,
+  saveConfig,
+  Catbox,
+  monospace
+} = require("../funcs");
+const mode = config.MODE;
+const prefix = config.PREFIX;
+const botname = global.botname || "ᴇᴍᴘɪʀᴇ_ᴍᴅ";
+const {
+  notes
+} = require("../../database/notes");
+cmd({
+  'pattern': 'menu',
+  'desc': "Get command list",
+  'category': "general",
+  'filename': __filename
+}, async (_0x5a14c5, _0x427e84, _0x2be1df, {
+  from: _0x1d16aa,
+  quoted: _0x1bbb9c,
+  sender: _0x3d7eed,
+  pushname: _0xcff90a,
+  reply: _0x4d932c
+}) => {
+  try {
+    const _0xa96142 = new Date();
+    const _0xf71b18 = {
+      'timeZone': "Africa/Lagos",
+      'hour12': true
+    };
+    const _0x1eb08f = _0xa96142.toLocaleTimeString('en-US', _0xf71b18);
+    const _0x4b3f7d = _0xa96142.toLocaleDateString('en-US', _0xf71b18);
+    const _0x4939d9 = _0xa96142.toLocaleDateString("en-US", {
+      'timeZone': "Africa/Lagos",
+      'weekday': "long"
+    });
+    const _0x513450 = runtime(process.uptime());
+    const _0x21c82e = (os.totalmem() / 0x400 / 0x400 / 0x400).toFixed(0x2);
+    const _0xe25aff = ((os.totalmem() - os.freemem()) / 0x400 / 0x400 / 0x400).toFixed(0x2);
+    const _0x2054ae = _0xe25aff + "GB / " + _0x21c82e + 'GB';
+    const _0x55b0de = commands.length;
+    const _0xb2a956 = commands.reduce((_0x4feb96, _0x361684) => {
+      if (_0x361684.pattern && !_0x361684.dontAddCommandList) {
+        if (!_0x4feb96[_0x361684.category]) {
+          _0x4feb96[_0x361684.category] = [];
+        }
+        _0x4feb96[_0x361684.category].push(_0x361684.pattern);
+      }
+      return _0x4feb96;
+    }, {});
+    const _0x1f8ae1 = "```\n┏━━⟪ " + botname + " ⟫━━⦿\n┃ ✗ Date: " + _0x4b3f7d + "\n┃ ✗ Day: " + _0x4939d9 + "\n┃ ✗ Mem: " + _0x2054ae + "\n┃ ✗ Mode: " + mode + "\n┃ ✗ Owner: " + _0xcff90a + "\n┃ ✗ Plugins: " + _0x55b0de.toString() + "\n┃ ✗ Prefix: [ " + prefix + " ] \n┃ ✗ Time: " + _0x1eb08f + "\n┃ ✗ Uptime: " + _0x513450 + "\n┃ ✗ Version: " + "1.0.0" + "\n┗━━━━━━━━━━━━━━━```\n";
+    const _0xf88312 = (_0x59e1f9, _0x54e501) => {
+      const _0x58afce = "┌──『 " + monospace(_0x59e1f9.toUpperCase()) + " 』──❖\n";
+      const _0x4b4854 = _0x54e501.map(_0x1eb915 => " |  " + monospace(prefix + _0x1eb915)).join("\n");
+      return '' + _0x58afce + _0x4b4854 + "\n" + "└──────────────◉\n";
+    };
+    let _0x36e005 = _0x1f8ae1;
+    for (const [_0x490908, _0x4e5905] of Object.entries(_0xb2a956)) {
+      _0x36e005 += _0xf88312(_0x490908, _0x4e5905) + "\n";
+    }
+    await _0x5a14c5.sendMessage(_0x1d16aa, {
+      'image': {
+        'url': "https://files.catbox.moe/lps6ow.jpg"
+      },
+      'caption': _0x36e005.trim()
+    }, {
+      'quoted': _0x427e84
+    });
+  } catch (_0x65ea13) {
+    console.log(_0x65ea13);
+    _0x4d932c('' + _0x65ea13);
+  }
+});
+cmd({
+  'pattern': 'file',
+  'desc': "Get the exact file name where a command is located in the repo.",
+  'category': "general",
+  'react': '✨',
+  'filename': __filename
+}, async (_0x1a98d0, _0x4506ca, _0xc1d932, {
+  q: _0x26a6ca,
+  reply: _0x5f3b78
+}) => {
+  if (!_0x26a6ca) {
+    return _0x5f3b78("Provide a command name to check its file location!");
+  }
+  const _0x1591cc = commands.find(_0x500ab0 => _0x500ab0.pattern === _0x26a6ca.toLowerCase());
+  if (!_0x1591cc) {
+    return _0x5f3b78("*❌ No such command found.*");
+  }
+  let _0x1b20e0 = "*🍁 Command:* " + _0x1591cc.pattern;
+  _0x1b20e0 += "\n*🧩 Type:* " + (_0x1591cc.category || 'misc');
+  _0x1b20e0 += "\n✨ *File Name:* " + (_0x1591cc.filename || "Not Provided");
+  _0x5f3b78(_0x1b20e0);
+});
+cmd({
+  'pattern': "setnote",
+  'desc': "Save a note with a title",
+  'category': "general",
+  'filename': __filename
+}, async (_0x333022, _0x2e1f98, _0x28a599, {
+  q: _0x25661d,
+  quoted: _0x5d4081,
+  sender: _0x3903fc,
+  reply: _0x584309
+}) => {
+  try {
+    if (!_0x25661d) {
+      return _0x584309("Please use this format:\n\n.setnote Title; Note Content");
+    }
+    const _0x2f48d0 = _0x25661d.split(';');
+    if (_0x2f48d0.length < 0x2) {
+      return _0x584309("❌ Invalid format! Use:\n.setnote Title; Note Content");
+    }
+    const _0x40c32b = _0x2f48d0[0x0].trim();
+    const _0x23dd47 = _0x5d4081 ? _0x5d4081.text : _0x2f48d0.slice(0x1).join(';').trim();
+    await notes.findOneAndUpdate({
+      'id': _0x3903fc,
+      'title': _0x40c32b
+    }, {
+      'note': _0x23dd47
+    }, {
+      'upsert': true,
+      'new': true
+    });
+    _0x584309("✅ *Note Saved!*\n\n📌 *Title:* " + _0x40c32b);
+  } catch (_0x35eddc) {
+    console.log(_0x35eddc);
+    _0x584309("error: " + _0x35eddc);
+  }
+});
+cmd({
+  'pattern': "list",
+  'desc': "Show all commands and descriptions",
+  'react': '📜',
+  'category': "general",
+  'filename': __filename
+}, async (_0x210ece, _0x78b51a, _0x4d2cd3, {
+  from: _0x4d0fd9,
+  quoted: _0x4ce3f1,
+  isCmd: _0xad6063,
+  command: _0x38f4e6,
+  args: _0xd1463c,
+  q: _0x14417c,
+  isGroup: _0x314e8b,
+  sender: _0x5a6ba2,
+  pushname: _0x367395,
+  reply: _0x480459
+}) => {
+  try {
+    const _0x2d6b2c = new Date();
+    const _0x59a795 = {
+      'timeZone': "Africa/Lagos",
+      'hour12': true
+    };
+    const _0x4dd282 = _0x2d6b2c.toLocaleTimeString("en-US", _0x59a795);
+    const _0x2d8872 = _0x2d6b2c.toLocaleDateString("en-US", _0x59a795);
+    const _0x175a34 = runtime(process.uptime());
+    const _0x3c671a = commands.length;
+    let _0x1d11f0 = "╭━━〘 ᴇᴍᴘɪʀᴇ-ᴍᴅ 〙────⊷  \n┃ ✭ ᴘʀᴇꜰɪx: " + prefix + "  \n┃ ✭ ᴏᴡɴᴇʀ: " + _0x367395 + "  \n┃ ✭ ᴄᴏᴍᴍᴀɴᴅꜱ: " + _0x3c671a.toString() + "  \n┃ ✭ ᴜᴘᴛɪᴍᴇ: " + _0x175a34 + "  \n┃ ✭ ᴅᴀᴛᴇ: " + _0x2d8872 + "  \n┃ ✭ ᴛɪᴍᴇ: " + _0x4dd282 + "  \n╰━━━━━━━━━━━━━━⊷\n";
+    commands.forEach((_0x559efa, _0x3fff8d) => {
+      if (_0x559efa.pattern && _0x559efa.desc) {
+        _0x1d11f0 += '*' + (_0x3fff8d + 0x1) + " " + monospace(_0x559efa.pattern) + "*\n  " + _0x559efa.desc + "\n";
+      }
+    });
+    await _0x210ece.sendMessage(_0x4d0fd9, {
+      'text': _0x1d11f0.trim()
+    }, {
+      'quoted': _0x78b51a
+    });
+  } catch (_0x3d429c) {
+    console.error(_0x3d429c);
+    _0x480459('' + _0x3d429c);
+  }
+});
+cmd({
+  'pattern': "menus",
+  'desc': "Display bot's uptime, date, time, and other stats",
+  'react': '📜',
+  'category': "general",
+  'filename': __filename
+}, async (_0x2007db, _0x147f24, _0x4c9938, {
+  from: _0xd7af8f,
+  quoted: _0x128d52,
+  sender: _0x50ee85,
+  pushname: _0x5824f0,
+  reply: _0x526528
+}) => {
+  try {
+    const _0x455483 = new Date();
+    const _0x374a9f = {
+      'timeZone': "Africa/Lagos",
+      'hour12': true
+    };
+    const _0x266311 = _0x455483.toLocaleTimeString("en-US", _0x374a9f);
+    const _0x339a05 = _0x455483.toLocaleDateString("en-US", _0x374a9f);
+    const _0x30e10f = _0x455483.toLocaleDateString("en-US", {
+      'timeZone': "Africa/Lagos",
+      'weekday': 'long'
+    });
+    const _0x4e9cb6 = runtime(process.uptime());
+    const _0x5d319e = (os.totalmem() / 0x400 / 0x400 / 0x400).toFixed(0x2);
+    const _0x5bbdb5 = ((os.totalmem() - os.freemem()) / 0x400 / 0x400 / 0x400).toFixed(0x2);
+    const _0x4092f2 = _0x5bbdb5 + "GB / " + _0x5d319e + 'GB';
+    const _0x52fc38 = "\n*🦄 ᴜᴘᴛɪᴍᴇ :* " + _0x4e9cb6 + "  \n*🍁 ᴛᴏᴅᴀʏ ᴅᴀᴛᴇ :* " + _0x339a05 + "  \n*🎗 ɴᴏᴡ ᴛɪᴍᴇ :* " + _0x266311 + "  \n*🎉 ᴛᴏᴅᴀʏ ᴅᴀʏ :* " + _0x30e10f + "  \n\n➮ 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 - ᴇᴍᴘɪʀᴇ ᴛᴇᴄʜ\n➮ ᴜsᴇʀ - " + _0x5824f0 + "  \n➮ ɴᴜᴍ - " + config.OWNER_NUMBER + "  \n➮ ᴍᴇᴍ - " + _0x4092f2 + "  \n\n*🧑‍💻 :* ᴇᴍᴘɪʀᴇ-ᴍᴅ ɪꜱ ɴᴏᴡ ᴀᴠᴀɪʟᴀʙʟᴇ  \n\n╭──❰ *ᴀʟʟ ᴍᴇɴᴜ* ❱  \n│🏮 ʟɪꜱᴛ  \n│🏮 ᴄᴀᴛᴇɢᴏʀʏ  \n│🏮 ʜᴇʟᴘ  \n│🏮 ᴀʟɪᴠᴇ  \n│🏮 ᴜᴘᴛɪᴍᴇ  \n│🏮 ᴡᴇᴀᴛʜᴇʀ  \n│🏮 ʟɪɴᴋ  \n│🏮 ᴄᴘᴜ  \n│🏮 ʀᴇᴘᴏꜱɪᴛᴏʀʏ  \n╰─────────────⦁  \n";
+    await _0x2007db.sendMessage(_0xd7af8f, _0x52fc38, {
+      'quoted': _0x147f24
+    });
+  } catch (_0x18b0cc) {
+    console.error(_0x18b0cc);
+    _0x526528('' + _0x18b0cc);
+  }
+});
+cmd({
+  'pattern': "getnote",
+  'desc': "Retrieve a specific note",
+  'category': "general",
+  'filename': __filename
+}, async (_0x32e7d7, _0xbfaf61, _0x4c9352, {
+  q: _0x36a279,
+  sender: _0x1b3df3,
+  reply: _0x1df7d5
+}) => {
+  try {
+    if (!_0x36a279) {
+      return _0x1df7d5("Please specify the note title!\nExample: .getnote Title");
+    }
+    const _0x312464 = await notes.findOne({
+      'id': _0x1b3df3,
+      'title': _0x36a279.trim()
+    });
+    if (!_0x312464) {
+      return _0x1df7d5("❌ No note found with this title!");
+    }
+    _0x1df7d5("📌 *Title:* " + _0x36a279.trim() + "\n📝 *Note:* " + _0x312464.note);
+  } catch (_0x265f99) {
+    console.log(_0x265f99);
+    _0x1df7d5("error: " + _0x265f99);
+  }
+});
+cmd({
+  'pattern': "delnote",
+  'desc': "Delete a specific note",
+  'category': "general",
+  'filename': __filename
+}, async (_0x1bcd0e, _0x559b46, _0x12727d, {
+  q: _0x2b1780,
+  sender: _0x476844,
+  reply: _0x3f311f
+}) => {
+  try {
+    if (!_0x2b1780) {
+      return _0x3f311f("Please specify the note title!\nExample: .delnote Title");
+    }
+    const _0x3857f0 = await notes.findOneAndDelete({
+      'id': _0x476844,
+      'title': _0x2b1780.trim()
+    });
+    if (!_0x3857f0) {
+      return _0x3f311f("❌ No note found with this title!");
+    }
+    _0x3f311f("✅ *Note \"" + _0x2b1780.trim() + "\" deleted successfully!*");
+  } catch (_0x3a95e3) {
+    console.log(_0x3a95e3);
+    _0x3f311f("error: " + _0x3a95e3);
+  }
+});
