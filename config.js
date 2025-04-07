@@ -35,7 +35,7 @@ module.exports = {
     AUTO_TYPING: process.env.AUTO_TYPING || "false",
     AUTO_VIEW_STATUS: process.env.AUTO_VIEW_STATUS || "false",
     MODE: process.env.MODE || "private",
-    MONGODB_URL: process.env.MONGODB_URL || "ir mongodb url",
+    MONGODB_URL: process.env.MONGODB_URL || "mongodb+srv://xcelsama:excelsama@xcelsama.ol54706.mongodb.net/?retryWrites=true&w=majority&appName=xcelsama",
     OWNER_NAME: process.env.OWNER_NAME || "𝖤𝗆𝗉𝗂𝗋𝖾 𝖳𝖾𝖼𝗁",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "ur number",
     PREFIX: process.env.PREFIX || ".",
